@@ -80,7 +80,37 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/controller/Controller.cpp">
+			<Option target="SIM22L"/>
+		</Unit>
+		<Unit filename="/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/controller/Controller.h">
+			<Option target="SIM22L"/>
+		</Unit>
 		<Unit filename="/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/main.cpp">
+			<Option target="SIM22L"/>
+		</Unit>
+		<Unit filename="/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralImage.cpp">
+			<Option target="SIM22L"/>
+		</Unit>
+		<Unit filename="/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralImage.h">
+			<Option target="SIM22L"/>
+		</Unit>
+		<Unit filename="/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralSeries.cpp">
+			<Option target="SIM22L"/>
+		</Unit>
+		<Unit filename="/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralSeries.h">
+			<Option target="SIM22L"/>
+		</Unit>
+		<Unit filename="/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralStudy.cpp">
+			<Option target="SIM22L"/>
+		</Unit>
+		<Unit filename="/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralStudy.h">
+			<Option target="SIM22L"/>
+		</Unit>
+		<Unit filename="/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/Patient.cpp">
+			<Option target="SIM22L"/>
+		</Unit>
+		<Unit filename="/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/Patient.h">
 			<Option target="SIM22L"/>
 		</Unit>
 		<Unit filename="/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/CMakeLists.txt">

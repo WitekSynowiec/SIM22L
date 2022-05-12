@@ -1,0 +1,3 @@
+Modele powyższe to modele DICOM (atrybuty pacjenta, badania, serii i obrazu).
+Pola modeli według standardu: https://dicom.innolitics.com/ciods/rt-plan/patient/00101002/00100020
+Tagi imebry: https://imebra.com/wp-content/uploads/documentation/html/html/definition_classes.html#_CPPv4N6imebra7tagId_tE

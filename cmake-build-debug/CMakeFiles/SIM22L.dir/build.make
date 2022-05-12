@@ -70,17 +70,92 @@ CMakeFiles/SIM22L.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SIM22L.dir/main.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/main.cpp -o CMakeFiles/SIM22L.dir/main.cpp.s
 
+CMakeFiles/SIM22L.dir/model/Patient.cpp.o: CMakeFiles/SIM22L.dir/flags.make
+CMakeFiles/SIM22L.dir/model/Patient.cpp.o: ../model/Patient.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/SIM22L.dir/model/Patient.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SIM22L.dir/model/Patient.cpp.o -c /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/Patient.cpp
+
+CMakeFiles/SIM22L.dir/model/Patient.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SIM22L.dir/model/Patient.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/Patient.cpp > CMakeFiles/SIM22L.dir/model/Patient.cpp.i
+
+CMakeFiles/SIM22L.dir/model/Patient.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SIM22L.dir/model/Patient.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/Patient.cpp -o CMakeFiles/SIM22L.dir/model/Patient.cpp.s
+
+CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.o: CMakeFiles/SIM22L.dir/flags.make
+CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.o: ../model/GeneralStudy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.o -c /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralStudy.cpp
+
+CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralStudy.cpp > CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.i
+
+CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralStudy.cpp -o CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.s
+
+CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.o: CMakeFiles/SIM22L.dir/flags.make
+CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.o: ../model/GeneralSeries.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.o -c /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralSeries.cpp
+
+CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralSeries.cpp > CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.i
+
+CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralSeries.cpp -o CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.s
+
+CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.o: CMakeFiles/SIM22L.dir/flags.make
+CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.o: ../model/GeneralImage.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.o -c /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralImage.cpp
+
+CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralImage.cpp > CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.i
+
+CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/model/GeneralImage.cpp -o CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.s
+
+CMakeFiles/SIM22L.dir/controller/Controller.cpp.o: CMakeFiles/SIM22L.dir/flags.make
+CMakeFiles/SIM22L.dir/controller/Controller.cpp.o: ../controller/Controller.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SIM22L.dir/controller/Controller.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/SIM22L.dir/controller/Controller.cpp.o -c /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/controller/Controller.cpp
+
+CMakeFiles/SIM22L.dir/controller/Controller.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/SIM22L.dir/controller/Controller.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/controller/Controller.cpp > CMakeFiles/SIM22L.dir/controller/Controller.cpp.i
+
+CMakeFiles/SIM22L.dir/controller/Controller.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/SIM22L.dir/controller/Controller.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/controller/Controller.cpp -o CMakeFiles/SIM22L.dir/controller/Controller.cpp.s
+
 # Object files for target SIM22L
 SIM22L_OBJECTS = \
-"CMakeFiles/SIM22L.dir/main.cpp.o"
+"CMakeFiles/SIM22L.dir/main.cpp.o" \
+"CMakeFiles/SIM22L.dir/model/Patient.cpp.o" \
+"CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.o" \
+"CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.o" \
+"CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.o" \
+"CMakeFiles/SIM22L.dir/controller/Controller.cpp.o"
 
 # External object files for target SIM22L
 SIM22L_EXTERNAL_OBJECTS =
 
 SIM22L: CMakeFiles/SIM22L.dir/main.cpp.o
+SIM22L: CMakeFiles/SIM22L.dir/model/Patient.cpp.o
+SIM22L: CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.o
+SIM22L: CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.o
+SIM22L: CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.o
+SIM22L: CMakeFiles/SIM22L.dir/controller/Controller.cpp.o
 SIM22L: CMakeFiles/SIM22L.dir/build.make
 SIM22L: CMakeFiles/SIM22L.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable SIM22L"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable SIM22L"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SIM22L.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

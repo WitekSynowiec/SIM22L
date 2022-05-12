@@ -74,12 +74,12 @@ clean: CMakeFiles/SIM22L.dir/clean
 CMakeFiles/SIM22L.dir/all:
 	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/depend
 	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target SIM22L"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5,6,7 "Built target SIM22L"
 .PHONY : CMakeFiles/SIM22L.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SIM22L.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/cmake-build-debug/CMakeFiles 7
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/SIM22L.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/WitoldSynowiec/Desktop/dev/Cpp/studia/SIM22L/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/SIM22L.dir/rule

@@ -123,6 +123,33 @@ SIM22L/fast:
 	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/build
 .PHONY : SIM22L/fast
 
+controller/Controller.o: controller/Controller.cpp.o
+
+.PHONY : controller/Controller.o
+
+# target to build an object file
+controller/Controller.cpp.o:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/controller/Controller.cpp.o
+.PHONY : controller/Controller.cpp.o
+
+controller/Controller.i: controller/Controller.cpp.i
+
+.PHONY : controller/Controller.i
+
+# target to preprocess a source file
+controller/Controller.cpp.i:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/controller/Controller.cpp.i
+.PHONY : controller/Controller.cpp.i
+
+controller/Controller.s: controller/Controller.cpp.s
+
+.PHONY : controller/Controller.s
+
+# target to generate assembly for a file
+controller/Controller.cpp.s:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/controller/Controller.cpp.s
+.PHONY : controller/Controller.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -150,6 +177,114 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+model/GeneralImage.o: model/GeneralImage.cpp.o
+
+.PHONY : model/GeneralImage.o
+
+# target to build an object file
+model/GeneralImage.cpp.o:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.o
+.PHONY : model/GeneralImage.cpp.o
+
+model/GeneralImage.i: model/GeneralImage.cpp.i
+
+.PHONY : model/GeneralImage.i
+
+# target to preprocess a source file
+model/GeneralImage.cpp.i:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.i
+.PHONY : model/GeneralImage.cpp.i
+
+model/GeneralImage.s: model/GeneralImage.cpp.s
+
+.PHONY : model/GeneralImage.s
+
+# target to generate assembly for a file
+model/GeneralImage.cpp.s:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/model/GeneralImage.cpp.s
+.PHONY : model/GeneralImage.cpp.s
+
+model/GeneralSeries.o: model/GeneralSeries.cpp.o
+
+.PHONY : model/GeneralSeries.o
+
+# target to build an object file
+model/GeneralSeries.cpp.o:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.o
+.PHONY : model/GeneralSeries.cpp.o
+
+model/GeneralSeries.i: model/GeneralSeries.cpp.i
+
+.PHONY : model/GeneralSeries.i
+
+# target to preprocess a source file
+model/GeneralSeries.cpp.i:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.i
+.PHONY : model/GeneralSeries.cpp.i
+
+model/GeneralSeries.s: model/GeneralSeries.cpp.s
+
+.PHONY : model/GeneralSeries.s
+
+# target to generate assembly for a file
+model/GeneralSeries.cpp.s:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/model/GeneralSeries.cpp.s
+.PHONY : model/GeneralSeries.cpp.s
+
+model/GeneralStudy.o: model/GeneralStudy.cpp.o
+
+.PHONY : model/GeneralStudy.o
+
+# target to build an object file
+model/GeneralStudy.cpp.o:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.o
+.PHONY : model/GeneralStudy.cpp.o
+
+model/GeneralStudy.i: model/GeneralStudy.cpp.i
+
+.PHONY : model/GeneralStudy.i
+
+# target to preprocess a source file
+model/GeneralStudy.cpp.i:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.i
+.PHONY : model/GeneralStudy.cpp.i
+
+model/GeneralStudy.s: model/GeneralStudy.cpp.s
+
+.PHONY : model/GeneralStudy.s
+
+# target to generate assembly for a file
+model/GeneralStudy.cpp.s:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/model/GeneralStudy.cpp.s
+.PHONY : model/GeneralStudy.cpp.s
+
+model/Patient.o: model/Patient.cpp.o
+
+.PHONY : model/Patient.o
+
+# target to build an object file
+model/Patient.cpp.o:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/model/Patient.cpp.o
+.PHONY : model/Patient.cpp.o
+
+model/Patient.i: model/Patient.cpp.i
+
+.PHONY : model/Patient.i
+
+# target to preprocess a source file
+model/Patient.cpp.i:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/model/Patient.cpp.i
+.PHONY : model/Patient.cpp.i
+
+model/Patient.s: model/Patient.cpp.s
+
+.PHONY : model/Patient.s
+
+# target to generate assembly for a file
+model/Patient.cpp.s:
+	$(MAKE) -f CMakeFiles/SIM22L.dir/build.make CMakeFiles/SIM22L.dir/model/Patient.cpp.s
+.PHONY : model/Patient.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,9 +294,24 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... SIM22L"
+	@echo "... controller/Controller.o"
+	@echo "... controller/Controller.i"
+	@echo "... controller/Controller.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... model/GeneralImage.o"
+	@echo "... model/GeneralImage.i"
+	@echo "... model/GeneralImage.s"
+	@echo "... model/GeneralSeries.o"
+	@echo "... model/GeneralSeries.i"
+	@echo "... model/GeneralSeries.s"
+	@echo "... model/GeneralStudy.o"
+	@echo "... model/GeneralStudy.i"
+	@echo "... model/GeneralStudy.s"
+	@echo "... model/Patient.o"
+	@echo "... model/Patient.i"
+	@echo "... model/Patient.s"
 .PHONY : help
 
 
